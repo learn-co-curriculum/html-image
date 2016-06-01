@@ -16,7 +16,7 @@ In this lesson we will do a quick review of HTML images from the video lecture i
 <img src="myimage.jpg" alt="Alternate text" title="Display title on hover.">
 ```
 
-Image elements `<img>` allow us to link to an image and display it in the browser. The `src` attribute is where we provide the path to our image file. The `alt` attribute is where we provide alternate text for the visually impaired. Also good for search engines. The `title` attribute allows us to type a phrase that will appear as the user hovers of the image for a period of time.
+Image elements `<img>` allow us to link to an image and display it in the browser. The `src` attribute is where we provide the path to our image file. The `alt` attribute is where we provide alternate text for the visually impaired. (The `alt` attribute is also good for search engines.) The `title` attribute allows us to type a phrase that will appear as the user hovers of the image for a period of time.
 
 ## Summary
 
