@@ -6,9 +6,9 @@ In this lesson we will do a quick review of HTML images from the video lecture i
 
 ## What's Covered in This Lesson 
 
-1. Review HTML img element
-2. Review alt attribute
-3. Review title attribute
+1. HTML `<img>` element
+2. HTML `alt` attribute
+3. HTML `title` attribute
 
 ### Images
 
